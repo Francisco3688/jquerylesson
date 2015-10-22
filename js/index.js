@@ -9,6 +9,6 @@ $(document).ready(function() {
 	$("#slide").slideUp(6000);
 
 	$("#attr").click(function(){
-		$("#gb").attr("src", "cowboy.gif");
+		$("#gb").attr("src", "images/avengers.jpg");
 	});
 });
