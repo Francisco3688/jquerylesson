@@ -1,0 +1,26 @@
+#Square {
+	border:solid 1px blue;
+	color:white;
+	background-color:blue;
+	font-family: tahoma;
+	width:50%;
+	height: 50px;
+	text-align: center;
+	font-size: 30pt;
+	margin-left: 350px;
+	font-weight: bold;
+}
+
+#fade {
+	display:none;
+}
+
+#slide {
+}
+
+#attr{
+}
+
+#gb {
+	
+}
